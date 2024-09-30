@@ -1,12 +1,13 @@
 project(level1)
 
-add_executable(p01_running_letter p01_running_letter/main.c)
+add_executable(p01_running_letter p01_running_letter/main.cpp
+)
 
-add_executable(p02_is_prime p02_is_prime/main.c)
+add_executable(p02_is_prime p02_is_prime/main.cpp)
 
-add_executable(p03_all_primes p03_all_primes/main.c)
+add_executable(p03_all_primes p03_all_primes/main.cpp)
 
-add_executable(p04_goldbach p04_goldbach/main.c)
+add_executable(p04_goldbach p04_goldbach/main.cpp)
 
 add_executable(p05_encrypt_decrypt p05_encrypt_decrypt/main.c)
 
