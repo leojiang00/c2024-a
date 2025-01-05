@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/wuziqi-ai/cmake-build-release/CMakeFiles/wuziqi_ai.dir
+C:/Users/PC/CLionProjects/wuziqi-ai/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/wuziqi-ai/cmake-build-release/CMakeFiles/rebuild_cache.dir
